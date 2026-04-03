@@ -1,2 +1,0 @@
-# ponipeli
-Ponipelin build täällä.
